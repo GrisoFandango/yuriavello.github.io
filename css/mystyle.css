@@ -1,0 +1,102 @@
+body {
+  background: #e2ded3;
+  font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#mainNavbar .navbar-brand {
+  color: #4e413b;
+  font-size: 1.5rem;
+}
+#mainNavbar .nav-link {
+  color: #4e413b;
+}
+
+#mainNavbar .nav-link:hover {
+  color: #ff6d24;
+}
+
+.navbar span {
+  color: #ff6d24;
+}
+
+#headerGroup h1 {
+  color: #4e413b;
+  font-size: 5rem;
+}
+
+#headerGroup h1 span {
+  color: #ff6d24;
+}
+
+.blurb {
+  color: #4e413b;
+}
+
+.blurb h2 span {
+  color: #ff6d24;
+}
+
+.blurb p a {
+  color: #ff6d24;
+}
+
+.content {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.scrolled {
+  background: #b3a47c;
+  transition: background 500ms;
+}
+
+#box {
+  color: #ff6d24;
+  border: 10px solid #4e413b;
+}
+
+#box h2 {
+  margin-top: 30px;
+}
+
+#box span {
+  color: #4e413b;
+}
+
+#box p {
+  color: #4e413b;
+  border-bottom: 3px solid #ff6d24;
+  padding-bottom: 10px;
+}
+
+#title {
+  color: #4e413b;
+}
+#title span {
+  color: #ff6d24;
+}
+
+#heading {
+  background: #4e413b;
+}
+
+.btn-danger {
+  color: #4e413b;
+  background: #ff6d24;
+}
+
+.btn-danger:hover,
+.btn-danger:active {
+  background: #e2ded3;
+  color: #ff6d24;
+}
+.btn-danger.focus,
+.btn-danger:focus {
+  border-color: #ff6d24;
+  box-shadow: 0 0 0 0.2rem rgba(225, 83, 97, 0.5);
+}
